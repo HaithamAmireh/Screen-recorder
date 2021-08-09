@@ -1,6 +1,6 @@
 import cv2
-import numpy as np
 import pyautogui
+import numpy as np
 import time
 import datetime
 
